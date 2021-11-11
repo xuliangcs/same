@@ -6,12 +6,6 @@
 
 ![](./res/SaME_title.png)
 
-
-
-# same
-
-SaME: Sharpness-aware Matching Ensemble for Robust Palmprint Recognition 
-
 [ [arxiv]() | [supp]()]
 
 
